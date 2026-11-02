@@ -63,3 +63,8 @@ si lo eh usado para trabajos de la clase a veces me pongo a ver que han subido y
 - **Qué le pedí:** [ ]
 
 - **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+## Simulación electrónica (Wokwi)
+
+  simulación del circuito electrónico en el siguiente enlace:
+
+[Ver proyecto en Wokwi](https://wokwi.com/projects/479555014698474497)
